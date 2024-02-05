@@ -3,7 +3,8 @@
 - 🔭I'm currently working on two main projects below:
    - ⭐[Ultrasound-image](https://github.com/Qmz432/Ultrasound-imaging-device), this project aims at designing an easy self-made ultrasound imaging device. It mainly consists of "Phased-array transducer", "Pulse-control board", "Related algorism". And I will update my latest work every Sunday.
    - ⭐[Lazy-laying](https://github.com/Qmz432/Lazy-laying), is a project to explore how to auto place the components in PCB according to their properties. And I will update this project every Sunday. It will be mainly about the project's ideas and how to realize the function.
-- 📧I’m working alone on these projects, so if you wanna to participate in, I'm happy to work with you. And you could contact me at qmzs12345@gmail.com.
+- 📧I’m working alone on these projects, so if you wanna to participate in, I'm happy to work with you. And you can contact me at qmzs12345@gmail.com.
+- I'm back to continue my projects including the ultrasound and the other one after finishing the postgraduate entrance exam, I also take something new, I have a website(simonsblog.top), congrats! I will update some information on both platforms.
 
 
 **My Poor GitHub Stats:**
